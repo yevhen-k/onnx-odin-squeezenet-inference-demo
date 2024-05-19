@@ -1,0 +1,5 @@
+.vscode-remote-data/
+.docker*
+*.onnx
+start_docker.sh
+odin_onnx_example
